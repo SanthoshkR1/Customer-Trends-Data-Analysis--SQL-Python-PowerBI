@@ -7,3 +7,7 @@ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transf
 Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
 
 Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+
+PowerBI Dashboard:
+![Uploading Customer Behavior Analysis Dashboard.png…]()
+
