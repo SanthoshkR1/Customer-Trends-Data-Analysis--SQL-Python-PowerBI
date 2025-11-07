@@ -9,5 +9,6 @@ Data Analysis (SQL): Simulate business transactions, and run queries to extract 
 Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 PowerBI Dashboard:
-![Uploading Customer Behavior Analysis Dashboard.png…]()
+<img width="1349" height="739" alt="Customer Behavior Analysis Dashboard" src="https://github.com/user-attachments/assets/f6ffb070-a3bc-493e-a7f9-debeabf2afea" />
+
 
